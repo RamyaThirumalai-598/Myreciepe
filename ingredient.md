@@ -1,7 +1,7 @@
-#Ingredients
+# Ingredients
 
-atta
-maidha
-sugar
-salt
-oil
+* atta
+* maidha
+* sugar
+* salt
+* oil
